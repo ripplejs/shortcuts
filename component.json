@@ -1,0 +1,12 @@
+{
+  "name": "shortcuts",
+  "scripts": ["index.js"],
+  "dependencies": {
+    "yields/k": "*"
+  },
+  "development": {
+    "component/assert": "*",
+    "ripplejs/ripple": "*",
+    "ianstormtaylor/trigger-event": "*"
+  }
+}
